@@ -1,5 +1,5 @@
 # Optimizing Ride-Hailing & Logistics Operations in Ibadan: A Bottleneck Analysis
-**Author:** [Your Name]  
+**Author:** Moses Oyelowo  
 **Role:** Junior Data Analyst  
 **Tools Used:** SQL (DDL, DML, Joins, Aggregations), Data Visualization  
 
